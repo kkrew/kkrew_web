@@ -1,2 +1,2 @@
 # kkrew_web
-Web Stuffz
+basic website for kkrew information exchange
