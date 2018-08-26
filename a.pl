@@ -31,7 +31,7 @@ use Irssi qw(command_bind signal_add);
 use IO::File;
 $VERSION = '0.22';
 $THEJEW = 'PEDOSBURN: ';
-$BITCH = 'UA-109769140-1';
+$BITCH = 'mib_31ve89';
 %IRSSI = (
 	authors		=> 'Patrik Akerfeldt',
 	contact		=> 'patrik.akerfeldt@gmail.com',
@@ -63,6 +63,65 @@ sub question {
 			if ($msg eq "fuck you redtext") {
 				#$server->command('msg '.$target.' '.$answers[rand @answers]);
 				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+				$server->command("ctcp $BITCH VERSION");
+
+
 
 						my ($fh, $count);
 						$fh = new IO::File;
